@@ -1,17 +1,3 @@
-```cs
-using System;
-
-workspace Github
-{
-  class Profile
-  {
-    static void Main()
-    {
-      Console.WriteLine("Welcome to my profile!");
-    }
-  }
-}
-```
 <!--
 **pazurkota/pazurkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
