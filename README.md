@@ -12,7 +12,10 @@ Hello 👋, my name is Peter and im a Unity Game Developer and .NET Programmer. 
 * Unity: https://learn.unity.com/u/pazurkota-unity?tab=profile
 * Youtube: https://www.youtube.com/channel/UCrKoC91HIWOeypK74LE91tQ [PL ONLY]
 
-### 📊 Github Stats: 
+### 📊 Statistics:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=true&theme=tokyonight&locale=en" alt="pazurkota" /></p>
 
 ### 🌲 Get the tree in C#:
