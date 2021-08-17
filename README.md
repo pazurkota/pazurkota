@@ -14,6 +14,9 @@ Hello 👋, my name is Peter and im a Unity Game Developer and .NET Programmer. 
 
 ### 📊 Statistics:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=true&theme=tokyonight&locale=en" alt="pazurkota" /></p>
