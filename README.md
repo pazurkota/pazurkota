@@ -4,7 +4,6 @@ Im Unity Game Developer and .NET Programmer. In free time I like playing video g
 ### 🎓 About me:
 * 🔭 I’m currently working on [my first game](https://github.com/pazurkota/attack_imminent-game)
 * 🌱 I’m currently learning: .NET Core, more about C#
-* 💻 Software I use: Jetbrains Rider, Visual Studio Code, GitKraken
 * 😄 Pronounce: attack helicopter
 * ⚡ Fun fact: The earth is square
 
