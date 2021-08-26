@@ -30,6 +30,9 @@ Im Unity Game Developer and .NET Programmer. In free time I like playing video g
     <a href="https://www.jetbrains.com/rider/">
         <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
     </a>
+    <a href="https://www.gitkraken.com/">
+        <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+    </a>
 </p>
 
 ### 📊 Github Stats:
