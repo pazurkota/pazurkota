@@ -8,7 +8,7 @@ Im Unity Game Developer and .NET Programmer. In free time I like playing video g
 * ⚡ Fun fact: The earth is square
 
 ### 📫 Where you can find me:
-* 👾 Discord: pazurkota#5362
+* 👾 Discord: pazurkota#0101
 * 🔧 Unity: [Click here](https://learn.unity.com/u/pazurkota-unity?tab=profile)
 * 🎥 Youtube: [Click here](https://learn.unity.com/u/pazurkota-unity?tab=profile)
 
