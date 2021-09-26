@@ -1,5 +1,5 @@
-# Hello, `</Developers>`!
-Im Unity Game Developer and .NET Programmer. In free time I like playing video games, and read books. Im from Lower Silesia, Poland. 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, `</Developers>`!
+Im Unity Game Developer and .NET Programmer. In free time I like playing video games and coding in free time. Im from Lower Silesia, Poland. 
 
 ### 🎓 About me:
 * 🔭 I’m currently working on *my secret project*
