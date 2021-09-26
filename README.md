@@ -2,7 +2,7 @@
 Im Unity Game Developer and .NET Programmer. In free time I like playing video games, and read books. Im from Lower Silesia, Poland. 
 
 ### 🎓 About me:
-* 🔭 I’m currently working on [my first game](https://github.com/pazurkota/attack_imminent-game)
+* 🔭 I’m currently working on *my secret project*
 * 🌱 I’m currently learning: .NET Core, more about C#
 * 😄 Pronounce: attack helicopter
 * ⚡ Fun fact: The earth is square
