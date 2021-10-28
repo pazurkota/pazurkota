@@ -2,11 +2,11 @@
 Im Unity Game Developer and .NET Programmer. In free time I like playing video games and coding. Im from Lower Silesia, Poland. 
 
 ### 🎓 About me:
-* 🔭 I’m currently working on [my old project]()
+* 🔭 I’m currently working on *something cool*
 * 🌱 I’m currently learning: more about .NET Core and C#
 * 😄 Pronounce: he/him
 * 💬 Ask me about: Unity Engine basics
-* ⚡ Did you know: the Krusty Krab looks like trap for krabs? *sus*
+* ⚡ Did you know: that The Krusty Krab looks like lobster trap? *sus*
 
 ### 📫 Where you can find me:
 * Contact me on my Discord server: [Click here!](https://discord.gg/UaRv3G59Jd)
