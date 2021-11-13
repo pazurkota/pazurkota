@@ -11,7 +11,7 @@ Im Unity Game Developer and .NET Programmer. In free time I like playing video g
 ### 📫 Where you can find me:
 * Contact me on my Discord server: [Click here!](https://discord.gg/UaRv3G59Jd)
 * My Unity Learn account: [Click here!](https://learn.unity.com/u/pazurkota-unity/?tab=profile)
-* My Youtube account: [Click here!](https://www.youtube.com/channel/UCrKoC91HIWOeypK74LE91tQ) *(only for people that understands Polish languague)*
+* itch.io Account: [Click here!](https://pazurkota.itch.io/)
 
 ### 🧰 Things I use:
 <p align="left">
