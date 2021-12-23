@@ -1,19 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, `</Developers>`!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello, `<Developers/>`!
 Im Unity Game Developer and .NET Programmer. In free time I like playing video games and coding. Im from Lower Silesia, Poland. 
 
-### 🎓 About me:
+## 🎓 About me:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 * 🔭 I’m currently working on *something cool*
-* 🌱 I’m currently learning: more about .NET Core and C#
+* 🌱 I’m currently learning: more about .NET
 * 😄 Pronounce: he/him
 * 💬 Ask me about: Unity Engine basics
 * ⚡ Did you know: that The Krusty Krab looks like lobster trap? *sus*
 
-### 📫 Where you can find me:
+## 📫 Where you can find me:
 * Contact me on my Discord server: [Click here!](https://discord.gg/UaRv3G59Jd)
 * My Unity Learn account: [Click here!](https://learn.unity.com/u/pazurkota-unity/?tab=profile)
 * itch.io Account: [Click here!](https://pazurkota.itch.io/)
 
-### 🧰 Things I use:
+## 🧰 Skills and software I use:
 <p align="left">
     <a href="https://ubuntu.com/">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -44,5 +46,10 @@ Im Unity Game Developer and .NET Programmer. In free time I like playing video g
     </a>
 </p>
 
-### 📊 Github Stats:
+## 📊 Github Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=true&theme=dracula&locale=en" alt="pazurkota" /></p>
+
+## 😉 AND at the end, some joke:
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
