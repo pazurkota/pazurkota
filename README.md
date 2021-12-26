@@ -1,10 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello, `<Developers/>`!
-Im Unity Game Developer and .NET Programmer. In free time I like playing video games and coding. Im from Lower Silesia, Poland. 
+Im Unity Game and .NET Developer. In free time I like playing video games, coding and do some electric stuff. Im from Lower Silesia, Poland. 
 
 ## 🎓 About me:
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-* 🔭 I’m currently working on *something cool*
+* 🔭 I’m currently working on: *something cool*
 * 🌱 I’m currently learning: more about .NET
 * 😄 Pronounce: he/him
 * 💬 Ask me about: Unity Engine basics
