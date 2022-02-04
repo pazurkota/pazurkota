@@ -41,8 +41,14 @@ Im Unity Game and .NET Developer. In free time I like playing video games, codin
     <a href="https://www.jetbrains.com/rider/">
         <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
     </a>
-    <a href="https://www.jetbrains.com/rider/">
+    <a href="https://www.vim.org">
+        <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+    </a>
+    <a href="https://www.gitkraken.com/">
         <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+    </a>
+    <a href="https://www.sourcetreeapp.com/">
+        <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white" />
     </a>
 </p>
 
