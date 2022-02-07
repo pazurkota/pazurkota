@@ -1,22 +1,24 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hello, `<Developers/>`!
-Im Unity Game and .NET Developer. In free time I like playing video games, coding and do some electric stuff. Im from Lower Silesia, Poland. 
+<h1 align="center">Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
-## 🎓 About me:
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+```csharp		
+static string Info()
+{
+    string str = "Basic information";
+			
+		str += "⚡ Quick bio: An amateur .NET developer. In free time I also play video games and do some electric stuff";
+                str += "🔭 I’m currently working on: Simple but very cool game";
+		str += "🌱 I’m currently learning: More about .NET";
+		str += "🤔 I’m looking for help with: More advanced stuff in C#";
+		str += "💬 Ask me about: Unity basics";			
+		str += "📫 How to reach me: My Discord server: https://discord.gg/UaRv3G59Jd";
 
-* 🔭 I’m currently working on: *something cool*
-* 🌱 I’m currently learning: more about .NET
-* 😄 Pronounce: he/him
-* 💬 Ask me about: Unity Engine basics
-* ⚡ Did you know: that The Krusty Krab looks like lobster trap? *sus*
+    return str;
+}
+```
 
-## 📫 Where you can find me:
-* Contact me on my Discord server: [Click here!](https://discord.gg/UaRv3G59Jd)
-* My Unity Learn account: [Click here!](https://learn.unity.com/u/pazurkota-unity/?tab=profile)
-* itch.io Account: [Click here!](https://pazurkota.itch.io/)
+<h1 align="center">Skills and software</h1>
 
-## 🧰 Skills and software I use:
-<p align="left">
+<p align="center">
     <a href="https://ubuntu.com/">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </a>
@@ -52,10 +54,7 @@ Im Unity Game and .NET Developer. In free time I like playing video games, codin
     </a>
 </p>
 
-## 📊 Github Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=true&theme=dracula&locale=en" alt="pazurkota" /></p>
+<h1 align="center">Github stats</h1>
 
-## 😉 AND at the end, some joke:
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazurkota&layout=compact&theme=dracula" /> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=true&theme=dracula" /> </p>
