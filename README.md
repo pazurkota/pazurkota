@@ -6,7 +6,7 @@
 - 💬 Ask me about anything but programming 
 - 📫 How to reach me: piotr.jelonek1@outlook.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: [IM STILL ALIVE](https://www.youtube.com/watch?v=6Nb4ey_bDks) 
+- ⚡ Fun fact: [I'M STILL ALIVE](https://www.youtube.com/watch?v=6Nb4ey_bDks) 
 
 ---
 
