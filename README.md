@@ -1,3 +1,15 @@
+## Hello, `<Developers/>`
+#### Im Peter, and I am a passionate .NET Developer
+
+- 🔭 I’m currently working on simplebot 
+- 🌱 I’m currently learning some cool stuff 
+- 💬 Ask me about anything but programming 
+- 📫 How to reach me: piotr.jelonek1@outlook.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: [IM STILL ALIVE](https://www.youtube.com/watch?v=6Nb4ey_bDks) 
+
+---
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
