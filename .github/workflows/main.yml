@@ -25,3 +25,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 2
           DEBUG_LOGGING: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
