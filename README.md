@@ -1,5 +1,5 @@
-## Hello, `<Developers/>`
-#### Im Peter, and I am a passionate .NET Developer
+# Hello, `<Developers/>`
+#### Im Peter, and I am a passionate .NET Developer. In a free time I really like read some books and play video games
 
 - 🔭 I’m currently working on simplebot 
 - 🌱 I’m currently learning some cool stuff 
