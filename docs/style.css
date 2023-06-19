@@ -1,0 +1,29 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: wheat;
+    background-image: url('images/background.jpg');
+}
+
+h2 {
+    background-color: #14213d;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+ul {
+    text-align: left;
+}
+
+a {
+    color: #fca311;
+    text-decoration: dotted;
+}
+
+#container {
+    background-color: #000000;
+    width: 424px;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
