@@ -2,10 +2,10 @@
 
 <img align="right" width="280" height="280" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" />
 
-#### Im Peter, and I am a passionate .NET Developer. In a free time I really like read some books and play video games
+#### Im Peter, and I am a passionate .NET Developer. My hobbies are programming, playing video games, severe weather and reading books
 
-- 🔭 I’m currently working on simplebot 
-- 🌱 I’m currently learning some cool stuff
+- 🔭 I’m currently working on [kittyweather](https://github.com/pazurkota/kittyweather) 
+- 🌱 I’m currently learning .NET MAUI
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about anything but programming 
 - 📫 How to reach me: piotr.jelonek1@outlook.com 
