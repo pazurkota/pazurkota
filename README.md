@@ -13,7 +13,7 @@
 - ⚡ Fun fact: [I'M STILL ALIVE](https://www.youtube.com/watch?v=6Nb4ey_bDks) 
 
 ### Technologies and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,unity,cs,idea,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,sqlite,idea,vscode,visualstudio,git)](https://skillicons.dev)
 
 ### Socials:
 - Youtube: [@pazurkota](https://www.youtube.com/channel/UCrKoC91HIWOeypK74LE91tQ)
