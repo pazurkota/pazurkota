@@ -2,7 +2,7 @@
 
 <img align="right" width="280" height="280" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" />
 
-#### Im Peter, and I am a passionate .NET Developer. My hobbies are programming, playing video games, severe weather and reading books
+#### My name is Peter, and I am a passionate .NET Developer. Also, Im into meteorology (especially storms), physics and science in general
 
 - 🔭 I’m currently working on [kittyweather](https://github.com/pazurkota/kittyweather) 
 - 🌱 I’m currently learning .NET MAUI
