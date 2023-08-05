@@ -1,60 +1,55 @@
-# Hello, `<Developers/>`
+<div id="header" align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="200"/>
+</div>
 
-<img align="right" width="280" height="280" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" />
+--- 
 
-#### My name is Peter, and I am a passionate .NET Developer. Also, Im into meteorology (especially storms), physics and science in general
+<div align="center">
+ <a href="https://www.youtube.com/@pazurkota/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube">
+ </a>
 
-- 🔭 I’m currently working on [kittyweather](https://github.com/pazurkota/kittyweather) 
-- 🌱 I’m currently learning .NET MAUI
-- 👯 I’m looking to collaborate with other developers
-- 💬 Ask me about anything but programming 
-- 📫 How to reach me: piotr.jelonek1@outlook.com 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: [I'M STILL ALIVE](https://www.youtube.com/watch?v=6Nb4ey_bDks) 
+ <a href="https://discord.gg/yU5ej6x9ns">
+  <img alt="Static Badge" src="https://img.shields.io/badge/discord-%237289da?style=for-the-badge&logo=discord">
+ </a>
 
-### Technologies and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,sqlite,idea,vscode,visualstudio,git)](https://skillicons.dev)
+ <a href="https://mastodon.social/@pazurk0ta">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mastodon-%2317063B?style=for-the-badge&logo=mastodon">
+ </a>
 
-### Socials:
-- Youtube: [@pazurkota](https://www.youtube.com/channel/UCrKoC91HIWOeypK74LE91tQ)
-- Instagram: [@pazurkota_yt](https://www.instagram.com/pazurkota_yt/)
-- Twitter: [@pazurk0ta](https://twitter.com/pazurk0ta)
-- Discord Server: [KGuRX3uNtB](https://discord.gg/KGuRX3uNtB)
+  <a href="https://twitter.com/@pazurk0ta">
+  <img alt="Static Badge" src="https://img.shields.io/badge/twitter_(X)-%23657786?style=for-the-badge&logo=twitter">
+ </a>
 
----
+ <h1>
+  hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
+</div>
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+```csharp
+public class Profile {
+	public string Name { get; set; }
+	public string BasicInfo { get; set; }
+	public List<string> Skills { get; set; }
+	public List<string> Software { get; set; }
 
-```text
-🌞 Morning                141 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.74 % 
-🌆 Daytime                764 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.76 % 
-🌃 Evening                537 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.09 % 
-🌙 Night                  6 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 % 
+	public Profile() {
+		Name = "Peter";
+		BasicInfo = "I'm a passionate .NET Developer, and I'm also into storm chasing, physics and science in general";
+		Skills = new List<string>() {
+			"CSharp",
+			".NET",
+			"SQLite",
+			"Know how to exit VI"
+		};
+		Software = new List<string>() {
+			"GitKraken",
+			"Jetbrains Rider",
+			"Visual Studio 2022",
+			"Visual Studio Code"
+		};
+	}
+}
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   265 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.30 % 
-Tuesday                  154 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.64 % 
-Wednesday                175 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.09 % 
-Thursday                 140 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.67 % 
-Friday                   199 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.74 % 
-Saturday                 235 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.23 % 
-Sunday                   280 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-kittyweather             2 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.51 % 
-simplebot                5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 % 
-```
-
-
- Last Updated on 05/08/2023 00:42:10 UTC
-<!--END_SECTION:waka-->
 
 ---
