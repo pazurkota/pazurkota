@@ -1,10 +1,10 @@
-<div id="header" align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="200"/>
-</div>
 
---- 
 
 <div align="center">
+ <h1>
+  hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
+
  <a href="https://www.youtube.com/@pazurkota/">
   <img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube">
  </a>
@@ -20,39 +20,10 @@
   <a href="https://twitter.com/@pazurk0ta">
   <img alt="Static Badge" src="https://img.shields.io/badge/twitter_(X)-%23657786?style=for-the-badge&logo=twitter">
  </a>
-
- <h1>
-  hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- </h1>
 </div>
 
-```csharp
-public class Profile {
-	public string Name { get; set; }
-	public string BasicInfo { get; set; }
-	public List<string> Skills { get; set; }
-	public List<string> Software { get; set; }
-
-	public Profile() {
-		Name = "Peter";
-		BasicInfo = "I'm a passionate .NET Developer, and I'm also into storm chasing, physics and science in general";
-		Skills = new List<string>() {
-			"CSharp",
-			".NET",
-			"SQLite",
-			"Know how to exit VI"
-		};
-		Software = new List<string>() {
-			"GitKraken",
-			"Jetbrains Rider",
-			"Visual Studio 2022",
-			"Visual Studio Code"
-		};
-	}
-}
-```
-
 ---
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
