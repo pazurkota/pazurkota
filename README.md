@@ -1,58 +1,39 @@
+# Hey, fellow coder! 👋
 
+I'm Peter, a 16-year-old coding enthusiast who's not only into programming but also fascinated by the wonders of physics, math, and meteorology.
 
-<div align="center">
- <h1>
-  hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- </h1>
+## About Me
 
- <a href="https://www.youtube.com/@pazurkota/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube">
- </a>
+- 🌟 High school student by day, coding ninja by night.
+- 🌐 A science nerd passionate about physics, math, and meteorology.
+- 💻 Exploring the fascinating realms of C#, .NET, and whatever excites me!
+- 🌱 Learning and growing one line of code at a time.
+- 🎮 When I'm not coding, you can find me gaming or brainstorming my next big project (or doing some other stuff).
 
- <a href="https://discord.gg/yU5ej6x9ns">
-  <img alt="Static Badge" src="https://img.shields.io/badge/discord-%237289da?style=for-the-badge&logo=discord">
- </a>
+## My Coding Adventures
 
- <a href="https://mastodon.social/@pazurk0ta">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mastodon-%2317063B?style=for-the-badge&logo=mastodon">
- </a>
+Here's a sneak peek into my coding escapades:
 
-  <a href="https://twitter.com/@pazurk0ta">
-  <img alt="Static Badge" src="https://img.shields.io/badge/twitter_(X)-%23657786?style=for-the-badge&logo=twitter">
- </a>
-</div>
+1. **KittyWeather**
+   - A simple, mobile, cat-themed .NET MAUI weather app
+   - https://github.com/pazurkota/kittyweather
 
----
+2. **Console Weather**
+   - Simple CLI app to check weather
+   - https://github.com/pazurkota/console-weather
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+3. **RSSNow**
+   - Multiplatform app for RSS News feed
+   - https://github.com/pazurkota/rssnow
 
-```text
-🌞 Morning                228 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.29 % 
-🌆 Daytime                1182 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.34 % 
-🌃 Evening                800 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.10 % 
-🌙 Night                  6 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.27 % 
-```
-📅 **I'm Most Productive on Sunday** 
+## Let's Connect!
 
-```text
-Monday                   359 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.20 % 
-Tuesday                  246 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.10 % 
-Wednesday                242 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.92 % 
-Thursday                 226 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.20 % 
-Friday                   332 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.98 % 
-Saturday                 352 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.88 % 
-Sunday                   459 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.71 % 
-```
+- 📬 Drop me an email at [piotr.jelonek1@outlook.com]
+- 🐦 Tweet me [@pazurk0ta]
+- 🎮 Find me on Discord: [@pazurkota]
 
+## Collaborate with Me!
 
-📊 **This Week I Spent My Time On** 
+If you're into coding, have project ideas, or want to chat about the universe, hit me up! I'm always up for a coding adventure.
 
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 10/11/2023 00:37:35 UTC
-<!--END_SECTION:waka-->
+*Happy coding! ✨*
