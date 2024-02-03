@@ -1,39 +1,21 @@
-# Hey, fellow coder! 👋
+# `Hey there! 🌌`
 
-I'm Peter, a 16-year-old coding enthusiast who's not only into programming but also fascinated by the wonders of physics, math, and meteorology.
+*I'm a 16-year-old code composer and synthwave enthusiast, weaving digital dreams and sonic landscapes.* 🎹🚀
 
-## About Me
+## `About Me:`
 
-- 🌟 High school student by day, coding ninja by night.
-- 🌐 A science nerd passionate about physics, math, and meteorology.
-- 💻 Exploring the fascinating realms of C#, .NET, and whatever excites me!
-- 🌱 Learning and growing one line of code at a time.
-- 🎮 When I'm not coding, you can find me gaming or brainstorming my next big project (or doing some other stuff).
+- 💻 *Journeying through the realms of software development, one line of code at a time.*
+- 🎶 *Crafting futuristic sounds in the realm of synthwave and exploring retro-futuristic aesthetics.*
+- ✨ *Delving into the mysteries of philosophy to fuel creativity and thought.*
 
-## My Coding Adventures
+## `Connect with Me:`
 
-Here's a sneak peek into my coding escapades:
+- 🎧 *Discord: `@pazurkota`*
+- 📫 *Email: `piotr.jelonek1@outlook.com`*
+- 🎹 *Listen to my beats on [YouTube](https://www.youtube.com/@foxtrotdotwav)*
 
-1. **KittyWeather**
-   - A simple, mobile, cat-themed .NET MAUI weather app
-   - https://github.com/pazurkota/kittyweather
+*Embrace the neon glow, and let's create waves in both code and synth! 🌟🎶*
 
-2. **Console Weather**
-   - Simple CLI app to check weather
-   - https://github.com/pazurkota/console-weather
+---
 
-3. **RSSNow**
-   - Multiplatform app for RSS News feed
-   - https://github.com/pazurkota/rssnow
-
-## Let's Connect!
-
-- 📬 Drop me an email at [piotr.jelonek1@outlook.com]
-- 🐦 Tweet me [@pazurk0ta]
-- 🎮 Find me on Discord: [@pazurkota]
-
-## Collaborate with Me!
-
-If you're into coding, have project ideas, or want to chat about the universe, hit me up! I'm always up for a coding adventure.
-
-*Happy coding! ✨*
+![Synthwave GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdhZHo0bWk4azB2N3phYzNuOWFiazM5NHIxanFsZWV6OXByejNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
