@@ -1,21 +1,20 @@
-# `Hey there! 🌌`
+# `hey there! ฅ^•ﻌ•^ฅ`
 
-*I'm a 16-year-old code composer and synthwave enthusiast, weaving digital dreams and sonic landscapes.* 🎹🚀
+*i'm 16-year-old developer and music composer from Poland*
 
-## `About Me:`
+### *about me*:
+- 🔭 *doing stuff in .NET*
+- 🌱 *currently learning Unity Engine, Python and HTML/CSS*
+- 🎹 *also doing some [music](https://www.youtube.com/@foxtrotdotwav)*
+- ⚡ *and i'm into metheorology (haha storm goes brrrr)*
+- 👀 *in a free time i watch some tv series/anime, read some sci-fi books, [stream](https://www.youtube.com/@pazurkota) and play ADC*
+- 💖 *my favourite champion in league of legends is ~~Miss Fortune~~ Xayah :3*
+- 👯 *and im always open for help and new ideas!*
 
-- 💻 *Journeying through the realms of software development, one line of code at a time.*
-- 🎶 *Crafting futuristic sounds in the realm of synthwave and exploring retro-futuristic aesthetics.*
-- ✨ *Delving into the mysteries of philosophy to fuel creativity and thought.*
+### *contact me*:
+- 🎧 *discord: `@pazurkota`*
+- 📫 *email: `piotr.jelonek1@outlook.com`*
+- 🎮 *wanna play league with me? `PazurKOTA#7185` (EUNE)*
 
-## `Connect with Me:`
-
-- 🎧 *Discord: `@pazurkota`*
-- 📫 *Email: `piotr.jelonek1@outlook.com`*
-- 🎹 *Listen to my beats on [YouTube](https://www.youtube.com/@foxtrotdotwav)*
-
-*Embrace the neon glow, and let's create waves in both code and synth! 🌟🎶*
-
----
-
-![Synthwave GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdhZHo0bWk4azB2N3phYzNuOWFiazM5NHIxanFsZWV6OXByejNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
+### *stats (｡◕‿‿◕｡)*:
+![github stats](https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=false&theme=midnight-purple)
