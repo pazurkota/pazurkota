@@ -17,4 +17,5 @@
 - 🎮 *wanna play league with me? `PazurKOTA#7185` (EUNE)*
 
 ### *stats (｡◕‿‿◕｡)*:
-![github stats](https://github-readme-stats.vercel.app/api?username=pazurkota&show_icons=false&theme=midnight-purple)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
