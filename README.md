@@ -1,6 +1,6 @@
 # `hey there! ฅ^•ﻌ•^ฅ`
 
-*i'm 16-year-old developer and music composer from Poland*
+*i'm 17-year-old developer and music composer from Poland*
 
 ### *about me*:
 - 🔭 *doing stuff in .NET, Python and with Raspberry Pi Pico*
