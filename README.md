@@ -18,6 +18,16 @@
 
 ### *stats (｡◕‿‿◕｡)*:
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/12/2024 01:03:30 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 02/12/2024 00:56:32 UTC
 <!--END_SECTION:waka-->
