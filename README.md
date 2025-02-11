@@ -1,22 +1,22 @@
-# `hey there! ฅ^•ﻌ•^ฅ`
+# `ｗｅｌｃｏｍｅ！　ポ依やだ`
 
-*i'm 17-year-old developer and music composer from Poland*
+*i'm 17-year-old developer and music composer from Poland 🌸*
 
-### *about me*:
+### *【﻿ａｂｏｕｔ　ｍｅ】*:
 - 🔭 *doing stuff in .NET, Python and with Raspberry Pi Pico*
-- 🌱 *currently learning front end (HTML/CSS, maybe JS) and 3D graphics with Blender*
-- 🎹 *also doing some [music](https://www.youtube.com/@foxtrotdotwav)*
+- 🌱 *currently learning cool stuff (and professional exam EKA.04)*
+- 🎹 *also doing some music in a free time*
 - ⚡ *and i'm into metheorology (haha storm goes brrrr)*
 - 👀 *in a free time i watch some tv series/anime, read some sci-fi books, [stream](https://www.youtube.com/@pazurkota) and play ADC*
 - 💖 *my favourite champion in league of legends is ~~Miss Fortune~~ Xayah :3*
 - 👯 *and im always open for help and new ideas!*
 
-### *contact me*:
+### *【﻿ｃｏｎｔａｃｔ　ｍｅ】*:
 - 🎧 *discord: `@pazurkota`*
 - 📫 *email: `piotr.jelonek1@outlook.com`*
 - 🎮 *wanna play league with me? `pazurkota#owo` (EUNE)*
 
-### *stats (｡◕‿‿◕｡)*:
+### *【﻿ｓｔａｔｓ　（｡◕‿‿◕｡）】*:
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
