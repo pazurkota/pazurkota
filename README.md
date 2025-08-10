@@ -22,13 +22,12 @@
 
 ```text
 💬 Programming Languages: 
-C#                       9 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.21 % 
-XAML                     6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zaisei                   15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2025 00:59:52 UTC
+ Last Updated on 10/08/2025 01:09:07 UTC
 <!--END_SECTION:waka-->
