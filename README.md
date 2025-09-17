@@ -1,9 +1,9 @@
 # `ｗｅｌｃｏｍｅ！　<／>　イ引ラ`
 
-*𝐢'𝐦 𝟏𝟕-𝐲𝐞𝐚𝐫-𝐨𝐥𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐦𝐮𝐬𝐢𝐜 𝐜𝐨𝐦𝐩𝐨𝐬𝐞𝐫 𝐟𝐫𝐨𝐦 𝐏𝐨𝐥𝐚𝐧𝐝* 🌸
+*𝐢'𝐦 𝟏𝟖-𝐲𝐞𝐚𝐫-𝐨𝐥𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐏𝐨𝐥𝐚𝐧𝐝* 🌸
 
 ### 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:
--   🔭  _doing stuff in .NET, Java, Python and with Raspberry Pi Pico_
+-   🔭  _doing stuff in .NET, Python and with Raspberry Pi Pico_
 -   🌱  _currently learning cool things_
 -   🎹  _also doing some music_
 -   ⚡  _and i'm into metheorology (haha storm goes brrrr)_
