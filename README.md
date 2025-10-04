@@ -18,6 +18,16 @@
 
 ### 𝐬𝐭𝐚𝐭𝐬 ( ˶ˆᗜˆ˵ ):
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/10/2025 00:53:36 UTC
+```text
+💬 Programming Languages: 
+Jupyter                  13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🐱‍💻 Projects: 
+intro_ml                 13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+
+ Last Updated on 04/10/2025 00:51:02 UTC
 <!--END_SECTION:waka-->
