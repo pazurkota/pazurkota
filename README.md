@@ -4,7 +4,7 @@
 
 ### 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:
 -   🔭  _doing stuff in .NET, Python and with Raspberry Pi Pico_
--   🌱  _currently learning cool things_
+-   🌱  _currently learning full stack dev_
 -   🎹  _also doing some music_
 -   ⚡  _and i'm into metheorology (haha storm goes brrrr)_
 -   👀  _in a free time i watch some tv series/anime, read sci-fi books and play ADC_
