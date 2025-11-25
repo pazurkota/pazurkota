@@ -22,12 +22,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.71 % 
+HTML                     8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.29 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+business_card            24 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 24/11/2025 01:02:34 UTC
+ Last Updated on 25/11/2025 00:58:13 UTC
 <!--END_SECTION:waka-->
