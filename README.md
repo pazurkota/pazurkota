@@ -1,8 +1,8 @@
-# `ｗｅｌｃｏｍｅ！　<／>　イ引ラ`
+# welcome, `</dev>`!
 
-*𝐢'𝐦 𝟏𝟖-𝐲𝐞𝐚𝐫-𝐨𝐥𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐏𝐨𝐥𝐚𝐧𝐝* 🌸
+> *i'm 18-year-old developer from Poland* 🌸
 
-### 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞:
+### about me:
 -   🔭  _doing stuff in .NET, Python and with Raspberry Pi Pico_
 -   🌱  _currently learning full stack dev_
 -   🎹  _also doing some music_
@@ -11,10 +11,9 @@
 -   💖  _my favourite champion in league of legends is_ ~~Miss Fortune~~  Xayah :3
 -   👯  _and im always open for help and new ideas!_
 
-### 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞:
-- 🎧 *discord: `@pazurkota`*
-- 📫 *email: `piotr.jelonek1@outlook.com`*
-- 🎮 *wanna play league with me? `pazurkota#owo` (EUNE only)*
+### contact me:
+- 🎤 on discord: `@pazurkota`
+- 🐤 on twitter/x: `@pazurk0ta`
 
 ### 𝐬𝐭𝐚𝐭𝐬 ( ˶ˆᗜˆ˵ ):
 <!--START_SECTION:waka-->
