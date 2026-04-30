@@ -21,15 +21,12 @@
 
 ```text
 💬 Programming Languages: 
-Jupyter                  47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   90.43 % 
-CSV/TSV                  3 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.99 % 
-CSV                      1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blood_anomaly_detection  49 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.36 % 
-wrapped_2025_data        2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.64 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/04/2026 02:05:47 UTC
+ Last Updated on 30/04/2026 02:05:34 UTC
 <!--END_SECTION:waka-->
