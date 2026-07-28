@@ -17,6 +17,8 @@
 
 ### 𝐬𝐭𝐚𝐭𝐬 ( ˶ˆᗜˆ˵ ):
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2020%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -31,6 +33,28 @@ Protocol Buffer          4 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 nerv.log                 2 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:03:20 UTC
+```text
+⏱ AI Coding Time: 1 hr 50 mins (86.99%)
+
+✍️ 1,006 lines written by AI, 225 lines written by hand (81.72% AI-written)
+
+🔤 13,539,115 Input Tokens, 91,569 Output Tokens
+
+💵 $41.89 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 22 AI Prompts
+
+Sonnet                   1,026 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 81.72% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 85.4% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 01:45:09 UTC
 <!--END_SECTION:waka-->
