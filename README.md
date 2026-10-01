@@ -1,7 +1,7 @@
 # welcome, `</dev>`!
 
 ### 🚀 About Me
-- 🇵🇱 18-year-old software developer based in **Poland**.
+- 🇵🇱 19-year-old software developer based in **Poland**.
 - ⚙️ Focused primarily on **Backend Development**, **Machine Learning**, and **Electronics**.
 - 🛠️ Writing code and building projects in **C#**, **C**, **C++**, and **Python**.
 - 🔬 Passionate about bridging low-level hardware and programming with modern server-side architecture and data analytics.
